@@ -56,4 +56,4 @@ while True:
   if __name__ == "__main__":
     main(posts)
 
-  time.sleep(3600)
+  time.sleep(1800)
